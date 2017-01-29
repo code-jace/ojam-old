@@ -1,0 +1,33 @@
+body {
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #ff0100;
+}
+
+
+body {
+  background: rgba(108, 209, 255, 0.55);
+}
+
+.jumbotron {
+  opacity: 0.95;
+  background: rgba(0, 118, 253, 0.55);
+}
+td {
+  margin-bottom: 3px;
+}
+
+.navbar-inverse {
+  background-color: rgb(0, 28, 134);
+  border-color: rgba(0, 28, 134, 0.71);
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: #f8f8f8;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #f8f8f8;
+}
